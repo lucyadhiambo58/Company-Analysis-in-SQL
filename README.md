@@ -1,9 +1,1 @@
-InfoTech Virtual Internship Learning Program
-
-As interns at InfoTech we are tasked with analyzing the employee data of a company to gain insights into various aspects of its 
-workforce. The dataset provided contains information about employees, their departments, salaries, 
-titles, and managerial positions. Data set schema is available in excel file.
-
-Using SQL queries and data manipulation techniques, we were expected to extract relevant information 
-from the dataset and present meaningful insights to support decision-making processes within the 
-organization.
+This project involves analyzing employee and department data from the "CompanyAnalysis" database to extract valuable insights for business decision-making. Key tasks include retrieving employee and department details, calculating total and average salaries, and identifying top managers and their departments. The analysis covers various aspects such as finding the highest salaries, most recent hires, and departments with the highest number of employees or average salaries. Additional tasks include identifying employees with long tenures, those hired within specific periods, and those who have held managerial roles. The project also involves calculating the total number of employees in each department, extracting details about employees in the Finance department, and evaluating departments with female managers. The aim is to provide comprehensive insights into employee demographics, compensation, and departmental performance
